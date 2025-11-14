@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
+	<release version="1.0.1">
+		<notes>
+			<note>Alterado método de instalação para upgrade para melhor suporte a atualizações</note>
+		</notes>
+	</release>
 	<release version="1.0.0">
 		<notes>
 			<note>Versão inicial do plugin JCE Links Advogados</note>
