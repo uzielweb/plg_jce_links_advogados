@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension version="4.0" type="plugin" group="jce" method="install">
+<extension version="4.0" type="plugin" group="jce" method="upgrade">
 	<name>plg_jce_links_advogados</name>
 	<author>Ponto Mega</author>
 	<creationDate>2025-01-13</creationDate>
