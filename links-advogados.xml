@@ -10,7 +10,6 @@
 
 	<files>
 		<filename plugin="links-advogados">links-advogados.php</filename>
-		<filename>links-advogados.js</filename>
 	</files>
 
 	<languages>
