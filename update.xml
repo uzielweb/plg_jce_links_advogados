@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>Links de Advogados para JCE</name>
+		<description>Fornece links para itens do componente Advogados no Navegador de Links do JCE</description>
+		<element>plg_jce_links_advogados</element>
+		<type>plugin</type>
+		<folder>jce</folder>
+		<version>1.0.0</version>
+		<infourl>https://github.com/uzielweb/plg_jce_links_advogados</infourl>
+		<changelogurl>https://raw.githubusercontent.com/uzielweb/plg_jce_links_advogados/main/changelog.xml</changelogurl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/uzielweb/plg_jce_links_advogados/archive/refs/heads/main.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer>Ponto Mega</maintainer>
+		<maintainerurl>https://github.com/uzielweb</maintainerurl>
+		<targetplatform name="joomla" version="4.0"/>
+	</update>
+</updates>

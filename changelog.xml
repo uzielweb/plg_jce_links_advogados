@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+	<release version="1.0.0">
+		<notes>
+			<note>Versão inicial do plugin JCE Links Advogados</note>
+			<note>Fornece links para itens do componente Advogados no Navegador de Links do JCE</note>
+			<note>Suporte para traduções em português (pt-BR) e inglês (en-GB)</note>
+			<note>Servidor de atualização para atualizações automáticas</note>
+		</notes>
+	</release>
+</changelog>
