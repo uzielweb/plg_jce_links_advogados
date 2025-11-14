@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-	<release version="1.0.2">
+	<release version="1.0.3">
 		<notes>
-			<note>Removido arquivo JS inexistente do XML de instalação</note>
+			<note>Adicionada tradução PLG_JCE_LINKS_ADVOGADOS_DESC aos arquivos .ini</note>
 		</notes>
 	</release>
 	<release version="1.0.0">
