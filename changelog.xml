@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-	<release version="1.0.1">
+	<release version="1.0.2">
 		<notes>
-			<note>Alterado método de instalação para upgrade para melhor suporte a atualizações</note>
+			<note>Removido arquivo JS inexistente do XML de instalação</note>
 		</notes>
 	</release>
 	<release version="1.0.0">
