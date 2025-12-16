@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
 	<update>
-		<name>Links de Advogados para JCE</name>
-		<description>Fornece links para itens do componente Advogados no Navegador de Links do JCE</description>
+		<name>Plugin JCE Links Advogados para Joomla - Integração Advogados com Editor JCE</name>
+		<description>Plugin Joomla que integra o componente Advogados com o editor JCE, fornecendo links para perfis de advogados diretamente no navegador de links do JCE</description>
 		<element>plg_jce_links_advogados</element>
 		<type>plugin</type>
 		<folder>jce</folder>

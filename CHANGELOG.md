@@ -1,4 +1,4 @@
-# Changelog
+# Changelog - Plugin JCE Links Advogados para Joomla
 
 All notable changes to this project will be documented in this file.
 
