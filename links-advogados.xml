@@ -20,6 +20,6 @@
 	</languages>
 
 	<updateservers>
-		<server type="extension" priority="1" name="Ponto Mega Updates">https://raw.githubusercontent.com/uzielweb/plg_jce_links_advogados/main/update.xml</server>
+		<server type="extension" priority="1" name="Ponto Mega Updates">https://raw.githubusercontent.com/uzielweb/plg_jce_links_advogados/refs/heads/master/update.xml</server>
 	</updateservers>
 </extension>
