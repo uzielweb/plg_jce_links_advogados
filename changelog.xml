@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
+	<release version="1.0.4">
+		<notes>
+			<note>Atualização de manutenção</note>
+		</notes>
+	</release>
 	<release version="1.0.3">
 		<notes>
 			<note>Adicionada tradução PLG_JCE_LINKS_ADVOGADOS_DESC aos arquivos .ini</note>
